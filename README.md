@@ -17,4 +17,4 @@ We welcome contributions, feature suggestions, and feedback. Feel free to open i
 
 ---
 
-Built with ❤️ by [Muhammad Risvan](https://github.com/risvandev) and [contributors](https://github.com/MNDO-Messenger/.github/graphs/contributors).
+Built with ❤️ by [Muhammad Risvan](https://github.com/risvandev) and [contributors](https://github.com/MNDO-Messenger/MNDO/graphs/contributors).
